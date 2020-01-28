@@ -1,4 +1,4 @@
-package fr.colin.ksp;
+package fr.charlotte.ksp.utils;
 
 public enum Mode {
 
