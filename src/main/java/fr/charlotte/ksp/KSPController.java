@@ -7,18 +7,13 @@ import fr.charlotte.ksp.controller.TelemetryController;
 import fr.charlotte.ksp.controller.ThrustController;
 import fr.colin.seesawsdk.Seesaw;
 import fr.colin.seesawsdk.modules.AnalogModule;
-import fr.colin.seesawsdk.utils.Pins;
 import krpc.client.Connection;
 import krpc.client.RPCException;
 import krpc.client.services.SpaceCenter;
-import org.apache.commons.math3.util.Precision;
 
 import java.io.IOException;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
-
-import static java.lang.Thread.interrupted;
-import static java.lang.Thread.sleep;
 
 public class KSPController {
 
