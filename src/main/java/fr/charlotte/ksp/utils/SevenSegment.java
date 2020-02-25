@@ -1,4 +1,4 @@
-package fr.colin.ksp;
+package fr.charlotte.ksp.utils;
 
 import com.pi4j.io.spi.SpiChannel;
 import com.pi4j.io.spi.SpiDevice;

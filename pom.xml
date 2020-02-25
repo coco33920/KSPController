@@ -24,7 +24,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>fr.colin.ksp.KSPController</mainClass>
+                            <mainClass>fr.charlotte.ksp.KSPController</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
@@ -48,7 +48,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>fr.colin.ksp.KSPController</mainClass>
+                            <mainClass>fr.charlotte.ksp.KSPController</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
